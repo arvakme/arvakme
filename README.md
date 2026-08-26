@@ -18,10 +18,9 @@ Body is idle, brain is empty o(^▽^)o
 
 - **[kazelise/usyd-cs14-1](https://github.com/kazelise/usyd-cs14-1)** — 悉大实验室社会实验平台，已上线可演示。
 - **[kazelise/agora](https://github.com/kazelise/agora)** — 人和 Agent 待在同一房间里的协作后端。
-- **[kazelise/sign-in-with-provider](https://github.com/kazelise/sign-in-with-provider)** — Chromium 扩展，记住第三方登录选择。
 - **[圆桌 AI](https://app.yuanzhuoai.cn/chat)** — 专家数字分身产品，参与过研发。
 
 <p align="center">
   <a href="https://arvak.me">Blog</a> ·
-  <a href="mailto:jobs@arvak.me">Email</a>
+  <a href="mailto:github@arvak.me">Email</a>
 </p>
