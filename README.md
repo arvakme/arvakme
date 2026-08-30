@@ -22,7 +22,7 @@
 
 #### 🌱 Internship / Research
 
-> 🔗 [CS14 live →](https://cs14.kazelis.top)
+> 🔗 [YuanzhuoAI live →](https://app.yuanzhuoai.cn/chat)
 
 <p>
 <strong>USYD</strong> -- <code>Research Platform · Backend</code> -- <code>2025 to 2026.</code><br/>
