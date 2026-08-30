@@ -1,26 +1,48 @@
-### <img width="220" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20kazelise&font=Doto" alt="Hi I'm kazelise" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Zhijie.+Agent+Backend+Engineer" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently focused on Agent backends.</strong>
+  </p>
 
-<picture>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kazelise&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&icon_color=0366d6" alt="kazelise's GitHub stats" />
-</picture>
+  <p>
+    <code>🎓 USYD Data Science · graduating 2026.12</code>
+    <code>📍 Now based in Shenzhen.</code>
+  </p>
+</div>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-马志杰，网上用 Arvak / kazelise。
+#### 💼 Work Experience
 
-2027 届，悉尼大学数据科学硕士，本科西安理工大学计算机，现在在深圳。
+#### 🌱 Internship / Research
 
-在做多 Agent 协作和实验室社会实验平台，参与过圆桌 AI 的研发。
+> 🔗 [CS14 live →](https://cs14.kazelis.top)
 
-Body is idle, brain is empty o(^▽^)o
+<p>
+<strong>圆桌 AI</strong> -- <code>专家问答分身 · 方案设计</code> -- <code>2026.07 to now.</code><br/>
+<strong>University of Sydney</strong> -- <code>CS14 Research Platform · Backend</code> -- <code>2025 to 2026.</code><br/>
+<strong>西安中软聚智</strong> -- <code>数据开发实习</code> -- <code>2023.06 to 08.</code>
+</p>
 
-<br clear="right" />
+</td>
+<td valign="top" width="48%">
 
-### Featured Work
+#### 💻 Open Source / Projects
 
-- **[kazelise/usyd-cs14-1](https://github.com/kazelise/usyd-cs14-1)** — 悉大实验室社会实验平台，已上线可演示。
-- **[kazelise/agora](https://github.com/kazelise/agora)** — 人和 Agent 待在同一房间里的协作后端。
-- **[圆桌 AI](https://app.yuanzhuoai.cn/chat)** — 专家数字分身产品，参与过研发。
+> 🏅 [View Awards →](https://github.com/kazelise/kazelise/blob/main/Awards.md)
+
+- 🔬 **[kazelise/usyd-cs14-1](https://github.com/kazelise/usyd-cs14-1)** · 受控实验信息流平台，已上线
+- 🏠 **[kazelise/agora](https://github.com/kazelise/agora)** · 多 Agent 同房聊天后端
+- 🧠 **[kazelise/pi-harness](https://github.com/kazelise/pi-harness)** · MemGraph 图结构记忆
+- ✍️ **[kazelise/survey-builder-agent](https://github.com/kazelise/survey-builder-agent)** · CS14 问卷撰写 Agent
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://arvak.me">Blog</a> ·
-  <a href="mailto:github@arvak.me">Email</a>
+  <a href="https://arvak.me">arvak.me</a> ·
+  <a href="mailto:github@arvak.me">github@arvak.me</a>
 </p>
