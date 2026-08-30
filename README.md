@@ -33,12 +33,12 @@
 
 #### 💻 Open Source / Projects
 
-> 🏅 [View Awards →](https://github.com/kazelise/kazelise/blob/main/Awards.md)
+> 🏅 [View Awards →](https://github.com/arvakme/kazelise/blob/main/Awards.md)
 
-- 🔬 **[kazelise/usyd-cs14-1](https://github.com/kazelise/usyd-cs14-1)** · 受控实验信息流平台，已上线
-- 🏠 **[kazelise/agora](https://github.com/kazelise/agora)** · 多 Agent 同房聊天后端
-- 🧠 **[kazelise/pi-harness](https://github.com/kazelise/pi-harness)** · MemGraph 图结构记忆
-- ✍️ **[kazelise/survey-builder-agent](https://github.com/kazelise/survey-builder-agent)** · CS14 问卷撰写 Agent
+- 🔬 **[arvakme/usyd-cs14-1](https://github.com/arvakme/usyd-cs14-1)** · 受控实验信息流平台，已上线
+- 🏠 **[arvakme/agora](https://github.com/arvakme/agora)** · 多 Agent 同房聊天后端
+- 🧠 **[arvakme/pi-harness](https://github.com/arvakme/pi-harness)** · MemGraph 图结构记忆
+- ✍️ **[arvakme/survey-builder-agent](https://github.com/arvakme/survey-builder-agent)** · CS14 问卷撰写 Agent
 
 </td>
 </tr>
