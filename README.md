@@ -16,12 +16,15 @@
 
 #### 💼 Work Experience
 
+<p>
+<strong>圆桌 AI</strong> -- <code>专家问答分身 · 方案设计</code> -- <code>2026.07 to now.</code>
+</p>
+
 #### 🌱 Internship / Research
 
 > 🔗 [CS14 live →](https://cs14.kazelis.top)
 
 <p>
-<strong>圆桌 AI</strong> -- <code>专家问答分身 · 方案设计</code> -- <code>2026.07 to now.</code><br/>
 <strong>University of Sydney</strong> -- <code>CS14 Research Platform · Backend</code> -- <code>2025 to 2026.</code><br/>
 <strong>西安中软聚智</strong> -- <code>数据开发实习</code> -- <code>2023.06 to 08.</code>
 </p>
