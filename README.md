@@ -33,7 +33,7 @@
 
 #### 💻 Open Source / Projects
 
-> 🏅 [View Awards →](https://github.com/arvakme/kazelise/blob/main/Awards.md)
+> 🏅 [View Awards →](https://github.com/arvakme/arvakme/blob/main/Awards.md)
 
 - 🔬 **[arvakme/usyd-cs14-1](https://github.com/arvakme/usyd-cs14-1)** · 受控实验信息流平台，已上线
 - 🏠 **[arvakme/agora](https://github.com/arvakme/agora)** · 多 Agent 同房聊天后端
