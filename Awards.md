@@ -20,7 +20,3 @@
 - Microsoft Azure AI-900
 - IELTS 6.5（阅读 7.5）
 - CET-4 / CET-6
-
-## Course highlight
-
-- COMP9001 HD 93（悉尼大学最高等级，85+）
