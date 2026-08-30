@@ -25,7 +25,7 @@
 > 🔗 [CS14 live →](https://cs14.kazelis.top)
 
 <p>
-<strong>University of Sydney</strong> -- <code>Research Platform · Backend</code> -- <code>2025 to 2026.</code><br/>
+<strong>USYD</strong> -- <code>Research Platform · Backend</code> -- <code>2025 to 2026.</code><br/>
 </p>
 
 </td>
