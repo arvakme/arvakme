@@ -17,7 +17,7 @@
 #### 💼 Work Experience
 
 <p>
-<strong>圆桌 AI</strong> -- <code>专家问答分身 · 方案设计</code> -- <code>2026.07 to now.</code>
+<strong>圆桌 AI</strong> -- <code>专家问答分身</code> -- <code>2026.07 to now.</code>
 </p>
 
 #### 🌱 Internship / Research
@@ -37,7 +37,6 @@
 
 - 🔬 **[arvakme/usyd-cs14-1](https://github.com/arvakme/usyd-cs14-1)** · 受控实验信息流平台，已上线
 - 🏠 **[arvakme/agora](https://github.com/arvakme/agora)** · 多 Agent 同房聊天后端
-- 🧠 **[arvakme/pi-harness](https://github.com/arvakme/pi-harness)** · MemGraph 图结构记忆
 - ✍️ **[arvakme/survey-builder-agent](https://github.com/arvakme/survey-builder-agent)** · CS14 问卷撰写 Agent
 
 </td>
