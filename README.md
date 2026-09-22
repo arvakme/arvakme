@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Arvak.+Agent+Backend+Engineer"
        alt="Hi, I'm Arvak. Agent Backend Engineer"
        width="360" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-       alt="👋"
-       width="24"
-       height="24"
-       align="middle" />
 </p>
   
 <p>🎓 USYD Data Science · graduating <strong>2026.12</strong><br/>📍 Now based in <strong>Shenzhen</strong>.</p>
