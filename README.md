@@ -1,8 +1,9 @@
 <div align="center">
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Arvak.+Working+On+Agent+Backend+Engineer"
-       alt="Hi, I'm Arvak. Working On Agent Backend Engineer"
-       width="360" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=false&vCenter=true&pause=100000&width=520&height=30&lines=Hi%2C+I'm+Arvak.+Working+on+Agent+Backend+Engineering"
+    alt="Hi, I'm Arvak. Working on Agent Backend Engineering"
+  />
 </p>
   
 <p>🎓 USYD Data Science · graduating <strong>2026.12</strong><br/>📍 Now based in <strong>Shenzhen</strong>.</p>
