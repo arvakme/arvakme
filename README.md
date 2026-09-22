@@ -5,13 +5,13 @@
   </picture>
 </a>
 
+<div align="center">
 <p><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Arvak.+Agent+Backend+Engineer" alt="Hi, I'm Arvak. Agent Backend Engineer" width="360" /></p>
 
 <p><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="28" height="28" /> <strong>I'm currently focused on Agent backends.</strong></p>
 
 <p>🎓 USYD Data Science · graduating <strong>2026.12</strong><br/>📍 Now based in <strong>Shenzhen</strong>.</p>
-
-<p><strong>Open-source footprint</strong><br/><sub>Public GitHub activity · <a href="https://ghfind.com/en/methodology">How ghfind scores</a></sub></p>
+</div>
 
 <br clear="both" />
 
