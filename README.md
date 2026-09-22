@@ -10,6 +10,21 @@
     <code>📍 Now based in Shenzhen.</code>
   </p>
 </div>
+
+<h3 align="center">Open-source footprint</h3>
+
+<p align="center">
+  <a href="https://ghfind.com/en/u/arvakme?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/arvakme?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/arvakme?theme=light" alt="Arvak's six-dimension GitHub activity score from ghfind" width="440" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <sub>A third-party perspective on my public GitHub activity · <a href="https://ghfind.com/en/methodology">How it works</a></sub>
+</p>
+
 <table>
 <tr>
 <td valign="top" width="50%">
