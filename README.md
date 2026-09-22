@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Arvak.+Agent+Backend+Engineer"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Arvak.+Working+On+Agent+Backend+Engineer"
        alt="Hi, I'm Arvak. Agent Backend Engineer"
        width="360" />
 </p>
@@ -26,7 +26,7 @@
 #### 💼 Work Experience
 
 <p>
-<strong>圆桌 AI</strong> -- <code>专家问答分身</code> -- <code>2026.07 to now.</code>
+<strong>圆桌 AI</strong> -- <code>intern</code> -- <code>2026.07 to now.</code>
 </p>
 
 #### 🌱 Internship / Research
