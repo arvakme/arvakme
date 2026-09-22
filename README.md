@@ -1,29 +1,19 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Arvak.+Agent+Backend+Engineer" alt="Hi"/>
-  <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently focused on Agent backends.</strong>
-  </p>
+<a href="https://ghfind.com/en/u/arvakme?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/arvakme?theme=dark" />
+    <img align="right" src="https://ghfind.com/api/card/mini/arvakme?theme=light" alt="Arvak's six-dimension GitHub activity score from ghfind" width="400" />
+  </picture>
+</a>
 
-  <p>
-    <code>🎓 USYD Data Science · graduating 2026.12</code>
-    <code>📍 Now based in Shenzhen.</code>
-  </p>
-</div>
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Arvak.+Agent+Backend+Engineer" alt="Hi, I'm Arvak. Agent Backend Engineer" width="360" /></p>
 
-<h3 align="center">Open-source footprint</h3>
+<p><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="28" height="28" /> <strong>I'm currently focused on Agent backends.</strong></p>
 
-<p align="center">
-  <a href="https://ghfind.com/en/u/arvakme?ref=badge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/arvakme?theme=dark" />
-      <img src="https://ghfind.com/api/card/mini/arvakme?theme=light" alt="Arvak's six-dimension GitHub activity score from ghfind" width="440" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <sub>A third-party perspective on my public GitHub activity · <a href="https://ghfind.com/en/methodology">How it works</a></sub>
-</p>
+<p>🎓 USYD Data Science · graduating <strong>2026.12</strong><br/>📍 Now based in <strong>Shenzhen</strong>.</p>
+
+<p><strong>Open-source footprint</strong><br/><sub>Public GitHub activity · <a href="https://ghfind.com/en/methodology">How ghfind scores</a></sub></p>
+
+<br clear="both" />
 
 <table>
 <tr>
